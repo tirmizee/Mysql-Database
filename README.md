@@ -10,7 +10,7 @@
     
 ### Setting this max_connections value permanently (แก้ไข "max_connections" อย่างถาวร) 
 
-/etc/mysql/my.cnf or /etc/my.cnf
+"/etc/mysql/my.cnf" or "/etc/my.cnf"
 
     max_connections = 250
     
