@@ -8,7 +8,7 @@
 
     SET GLOBAL max_connections = 200;
     
-### To set this value permanently
+### Setting this max_connections value permanently
 
 /etc/mysql/my.cnf or /etc/my.cnf
 
