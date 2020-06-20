@@ -13,3 +13,7 @@
 /etc/mysql/my.cnf or /etc/my.cnf
 
     max_connections = 250
+    
+###  Check Index Information
+
+    SHOW INDEX FROM schema_mysql.transaction;
