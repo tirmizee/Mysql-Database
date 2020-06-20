@@ -10,4 +10,6 @@
     
 ### To set this value permanently
 
-/etc/mysql/my.cnf
+/etc/mysql/my.cnf or /etc/my.cnf
+
+    max_connections = 250
